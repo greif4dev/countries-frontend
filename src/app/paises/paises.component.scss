@@ -1,0 +1,15 @@
+:host {
+    display: block;
+  }
+  
+  button {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
+  input, table {
+    font-size: 14px;
+  }
